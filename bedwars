@@ -1,3 +1,16 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTSv1/ctsmobile/main/ctskavo"))()
 
+local Window = Library.CreateLib("CTS Mobile V1", "CTS")
+
+local Tab1 = Window:NewTab("Combat")
+
+local Tab2 = Window:NewTab("Player")
+
+local Tab3 = Window:NewTab("Movement")
+
+local Tab4 = Window:NewTab("World")
+
+local Tab5 = Window:NewTab("Misc")
+
+
 
