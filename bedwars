@@ -1,0 +1,3 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTSv1/ctsmobile/main/ctskavo"))()
+
+
