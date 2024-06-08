@@ -1,3 +1,4 @@
+--- BETA UI FOR MOBILE UNTIL I FINISH THE PC UI THEN MOBILE UI DVELOPMENT STARTS
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/CTSv1/ctsmobile/main/ctskavo"))()
 
 
