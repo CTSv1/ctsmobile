@@ -108,7 +108,7 @@ local themeStyles = {
     CTS= {
         SchemeColor = Color3.fromRGB(58, 152, 155),
         Background = Color3.fromRGB(112, 110, 189),
-        Header = Color3.fromRGB(117, 40, 148),
+        Header = Color3.fromRGB(112, 110, 189),
         TextColor = Color3.fromRGB(0, 0, 0),
         ElementColor = Color3.fromRGB(73, 72, 72)
     },
